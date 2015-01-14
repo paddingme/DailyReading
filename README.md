@@ -2,4 +2,5 @@
 
 |日期|阅读笔记|tags|
 |----|--------|----|
-|20150103|[《2014年CSS报告——考察如何使用CSS 》](https://github.com/paddingme/DailyReading/issues/1)| [CSS](https://github.com/paddingme/DailyReading/labels/CSS)|
+|2015年01月13日|[《2014年CSS报告——考察如何使用CSS 》](https://github.com/paddingme/DailyReading/issues/1)| [CSS](https://github.com/paddingme/DailyReading/labels/CSS)|
+|2015年01月14日|[回味background](https://github.com/paddingme/DailyReading/issues/2)| [CSS](https://github.com/paddingme/DailyReading/labels/CSS)|
