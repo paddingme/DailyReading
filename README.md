@@ -5,3 +5,4 @@
 |2015年01月13日|[2014年CSS报告——考察如何使用CSS](https://github.com/paddingme/DailyReading/issues/1)| [CSS](https://github.com/paddingme/DailyReading/labels/CSS)|
 |2015年01月14日|[回味background](https://github.com/paddingme/DailyReading/issues/2)| [CSS](https://github.com/paddingme/DailyReading/labels/CSS)|
 |2015年01月15日|[chrome调试工具常用功能整理](https://github.com/paddingme/DailyReading/issues/3)| [Tools](https://github.com/paddingme/DailyReading/labels/Tools)|
+|2015年01月16日|[Javascript继承机制的设计思想](https://github.com/paddingme/DailyReading/issues/4)| [JavaScript](https://github.com/paddingme/DailyReading/labels/JavaScript)|
