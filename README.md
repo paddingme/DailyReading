@@ -10,3 +10,7 @@
 |2015年01月17日|[攻略强制换行与强制不换行](http://www.hicss.net/solve-change-line-in-css/)|#|CSS|
 |2015年01月18日|[inline-block 前世今生](http://ued.taobao.org/blog/2012/08/inline-block/)|[#5](https://github.com/paddingme/DailyReading/issues/5)|[CSS](https://github.com/paddingme/DailyReading/labels/CSS)|
 |2015年01月24日|[Web 研发模式演变](https://github.com/lifesinger/lifesinger.github.com/issues/184)|#|General|
+|2015年01月25日|[前端开发技术的发展](http://www.html-js.com/article/2628)|#|General|
+|2015年01月26日|[教你制作完美的 FAVICON 图标](http://www.uisdc.com/design-perfect-favicon-icon)|#|General|
+|2015年01月27日|[再看 Ajax](http://www.cnblogs.com/skylar/p/ajaxCORS.html)|#|JavaScript|
+
